@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" font-family="Fira Code,Consolas,monospace">
+<style>@keyframes sw0{0%,0.0%{transform:translateX(-260px);opacity:0}1.0%{opacity:1}20.0%{transform:translateX(640px);opacity:1}20.5%,100%{opacity:0;transform:translateX(640px)}}.sw0{animation:sw0 8.0s linear infinite;opacity:0}@keyframes sw1{0%,11.2%{transform:translateX(-260px);opacity:0}12.2%{opacity:1}31.2%{transform:translateX(640px);opacity:1}31.8%,100%{opacity:0;transform:translateX(640px)}}.sw1{animation:sw1 8.0s linear infinite;opacity:0}@keyframes sw2{0%,22.5%{transform:translateX(-260px);opacity:0}23.5%{opacity:1}42.5%{transform:translateX(640px);opacity:1}43.0%,100%{opacity:0;transform:translateX(640px)}}.sw2{animation:sw2 8.0s linear infinite;opacity:0}@keyframes sw3{0%,33.8%{transform:translateX(-260px);opacity:0}34.8%{opacity:1}53.8%{transform:translateX(640px);opacity:1}54.2%,100%{opacity:0;transform:translateX(640px)}}.sw3{animation:sw3 8.0s linear infinite;opacity:0}@keyframes pd0{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(276px);opacity:0}}.pd0{animation:pd0 4.0s linear infinite;animation-delay:0.00s;opacity:0}@keyframes pd1{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(276px);opacity:0}}.pd1{animation:pd1 4.0s linear infinite;animation-delay:1.33s;opacity:0}@keyframes pd2{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(276px);opacity:0}}.pd2{animation:pd2 4.0s linear infinite;animation-delay:2.67s;opacity:0}@keyframes pu0{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(-276px);opacity:0}}.pu0{animation:pu0 4.0s linear infinite;animation-delay:2.00s;opacity:0}@keyframes pu1{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(-276px);opacity:0}}.pu1{animation:pu1 4.0s linear infinite;animation-delay:3.33s;opacity:0}@keyframes pu2{0%{transform:translateY(0);opacity:0}8%{opacity:1}88%{opacity:1}100%{transform:translateY(-276px);opacity:0}}.pu2{animation:pu2 4.0s linear infinite;animation-delay:4.67s;opacity:0}</style>
+<defs><filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#39d353" stop-opacity="0"/><stop offset=".5" stop-color="#39d353" stop-opacity=".18"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></linearGradient></defs>
+<rect width="900" height="500" rx="14" fill="#0d1117"/>
+<text x="60" y="46" fill="#39d353" font-size="19" font-weight="700">co-design across the AI stack</text><text x="372" y="46" fill="#8b949e" font-size="14">· every layer shapes the others</text>
+<rect x="60" y="82" width="640" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c0"><rect x="60" y="82" width="640" height="64" rx="10"/></clipPath><g clip-path="url(#c0)"><rect class="sw0" x="60" y="82" width="260" height="64" fill="url(#scan)"/></g>
+<text x="78" y="108" fill="#c9d1d9" font-size="13" font-weight="700" letter-spacing="1">MODELS &amp; ALGORITHMS</text>
+<rect x="78" y="118" width="114" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="135" y="132" fill="#7ee787" font-size="11.5" text-anchor="middle">approximation</text>
+<rect x="200.2" y="118" width="52" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="226" y="132" fill="#7ee787" font-size="11.5" text-anchor="middle">NAS</text>
+<rect x="260.2" y="118" width="114" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="317" y="132" fill="#7ee787" font-size="11.5" text-anchor="middle">vector search</text>
+<rect x="382.4" y="118" width="136" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="451" y="132" fill="#7ee787" font-size="11.5" text-anchor="middle">RL post-training</text>
+<rect x="60" y="174" width="640" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c1"><rect x="60" y="174" width="640" height="64" rx="10"/></clipPath><g clip-path="url(#c1)"><rect class="sw1" x="60" y="174" width="260" height="64" fill="url(#scan)"/></g>
+<text x="78" y="200" fill="#c9d1d9" font-size="13" font-weight="700" letter-spacing="1">COMPILERS &amp; RUNTIMES</text>
+<rect x="78" y="210" width="85" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="120" y="224" fill="#7ee787" font-size="11.5" text-anchor="middle">languages</text>
+<rect x="170.60000000000002" y="210" width="77" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="209" y="224" fill="#7ee787" font-size="11.5" text-anchor="middle">autograd</text>
+<rect x="255.8" y="210" width="70" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="291" y="224" fill="#7ee787" font-size="11.5" text-anchor="middle">codegen</text>
+<rect x="333.6" y="210" width="92" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="380" y="224" fill="#7ee787" font-size="11.5" text-anchor="middle">scheduling</text>
+<rect x="60" y="266" width="640" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c2"><rect x="60" y="266" width="640" height="64" rx="10"/></clipPath><g clip-path="url(#c2)"><rect class="sw2" x="60" y="266" width="260" height="64" fill="url(#scan)"/></g>
+<text x="78" y="292" fill="#c9d1d9" font-size="13" font-weight="700" letter-spacing="1">SYSTEMS</text>
+<rect x="78" y="302" width="107" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="131" y="316" fill="#7ee787" font-size="11.5" text-anchor="middle">HPC clusters</text>
+<rect x="192.8" y="302" width="99" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="242" y="316" fill="#7ee787" font-size="11.5" text-anchor="middle">GPU kernels</text>
+<rect x="300.20000000000005" y="302" width="136" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="368" y="316" fill="#7ee787" font-size="11.5" text-anchor="middle">memory hierarchy</text>
+<rect x="444.6" y="302" width="70" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="480" y="316" fill="#7ee787" font-size="11.5" text-anchor="middle">serving</text>
+<rect x="60" y="358" width="640" height="64" rx="10" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c3"><rect x="60" y="358" width="640" height="64" rx="10"/></clipPath><g clip-path="url(#c3)"><rect class="sw3" x="60" y="358" width="260" height="64" fill="url(#scan)"/></g>
+<text x="78" y="384" fill="#c9d1d9" font-size="13" font-weight="700" letter-spacing="1">HARDWARE</text>
+<rect x="78" y="394" width="52" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="104" y="408" fill="#7ee787" font-size="11.5" text-anchor="middle">CPU</text>
+<rect x="138" y="394" width="52" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="164" y="408" fill="#7ee787" font-size="11.5" text-anchor="middle">GPU</text>
+<rect x="198" y="394" width="52" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="224" y="408" fill="#7ee787" font-size="11.5" text-anchor="middle">FPGA</text>
+<rect x="258" y="394" width="77" height="20" rx="10" fill="#0e4429" stroke="#006d32"/><text x="297" y="408" fill="#7ee787" font-size="11.5" text-anchor="middle">chiplets</text>
+<line x1="740" y1="114.0" x2="740" y2="390.0" stroke="#30363d" stroke-width="2"/>
+<line x1="700" y1="114.0" x2="740" y2="114.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="740" cy="114.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="206.0" x2="740" y2="206.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="740" cy="206.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="298.0" x2="740" y2="298.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="740" cy="298.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="390.0" x2="740" y2="390.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="740" cy="390.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<text x="740" y="430.0" fill="#8b949e" font-size="11" text-anchor="middle">intent</text>
+<text x="740" y="414.0" fill="#39d353" font-size="16" text-anchor="middle">↓</text>
+<circle class="pd0" cx="740" cy="114" r="5" fill="#39d353" filter="url(#glow)"/>
+<circle class="pd1" cx="740" cy="114" r="5" fill="#39d353" filter="url(#glow)"/>
+<circle class="pd2" cx="740" cy="114" r="5" fill="#39d353" filter="url(#glow)"/>
+<line x1="800" y1="114.0" x2="800" y2="390.0" stroke="#30363d" stroke-width="2"/>
+<line x1="700" y1="114.0" x2="800" y2="114.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="800" cy="114.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="206.0" x2="800" y2="206.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="800" cy="206.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="298.0" x2="800" y2="298.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="800" cy="298.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<line x1="700" y1="390.0" x2="800" y2="390.0" stroke="#21262d" stroke-dasharray="3 4"/>
+<circle cx="800" cy="390.0" r="4" fill="#0e4429" stroke="#006d32"/>
+<text x="800" y="430.0" fill="#8b949e" font-size="11" text-anchor="middle">feedback</text>
+<text x="800" y="414.0" fill="#39d353" font-size="16" text-anchor="middle">↑</text>
+<circle class="pu0" cx="800" cy="390" r="5" fill="#39d353" filter="url(#glow)"/>
+<circle class="pu1" cx="800" cy="390" r="5" fill="#39d353" filter="url(#glow)"/>
+<circle class="pu2" cx="800" cy="390" r="5" fill="#39d353" filter="url(#glow)"/>
+<text x="60" y="470" fill="#8b949e" font-size="13">approximate cleverly · search smartly · measure on real silicon</text>
+</svg>
