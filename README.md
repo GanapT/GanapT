@@ -102,19 +102,10 @@ candidate architectures never need full training.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GanapT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=26a641&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanapT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8"/>
-</p>
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GanapT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&stroke=26a641" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GanapT&bg_color=0d1117&color=39d353&line=26a641&point=ffffff&area=true&area_color=0e4429&hide_border=true&custom_title=Commit%20Activity" width="100%"/>
 </p>
 
 ---
