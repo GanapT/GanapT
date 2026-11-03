@@ -11,7 +11,7 @@
 
 ## 👋 About
 
-I'm a Computer Engineering PhD student at **Arizona State University**, advised by **Prof. Jeff (Jun) Zhang**.
+I'm a Computer Engineering PhD student at **Arizona State University**.
 I work on **approximation algorithms** and **hardware–software co-design across the AI stack**, from
 billion-scale vector search and neural architecture search down to GPUs, FPGAs and chiplets.
 I also TA Embedded Systems, IoT and Statistics for 80+ students.
