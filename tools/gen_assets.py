@@ -43,10 +43,8 @@ def header():
 <text x="56" y="192" font-family="{SANS}" font-size="21" fill="{TEXT}">Computer Engineering PhD · Arizona State University</text>
 <text x="56" y="226" font-family="{SANS}" font-size="17" fill="{MUTED}">Hardware–software co-design across the AI stack</text>
 <g font-family="{MONO}" font-size="13">
-  <rect x="56" y="248" width="196" height="28" rx="14" fill="#0e4429" stroke="#006d32"/>
-  <text x="154" y="266.5" fill="#7ee787" text-anchor="middle">DAC 2026 · published</text>
-  <rect x="264" y="248" width="150" height="28" rx="14" fill="{PANEL}" stroke="{EDGE}"/>
-  <text x="339" y="266.5" fill="{MUTED}" text-anchor="middle">Tempe, Arizona</text>
+  <rect x="56" y="248" width="150" height="28" rx="14" fill="{PANEL}" stroke="{EDGE}"/>
+  <text x="131" y="266.5" fill="{MUTED}" text-anchor="middle">Tempe, Arizona</text>
 </g>
 </svg>'''
 
