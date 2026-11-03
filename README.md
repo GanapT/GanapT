@@ -14,7 +14,7 @@
 I'm a Computer Engineering PhD student at **Arizona State University**.
 I work on **approximation algorithms** and **hardware–software co-design across the AI stack**, from
 billion-scale vector search and neural architecture search down to GPUs, FPGAs and chiplets.
-I also TA Embedded Systems, IoT and Statistics for 80+ students.
+
 
 <p align="center">
   <img src="assets/ai-stack.svg" alt="Co-design across the AI stack: models and algorithms, compilers and runtimes, systems, hardware" width="100%"/>
